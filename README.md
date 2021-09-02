@@ -35,5 +35,5 @@ Hello! I'm Jonathan, a Computer Science major at UCLA. This past summer, I've be
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=viciouscupcake&show_icons=true&locale=en)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=viciouscupcake&show_icons=true&locale=en&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=viciouscupcake&show_icons=true&locale=en&include_all_commits=true&count_private=true)
