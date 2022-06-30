@@ -92,5 +92,3 @@ alt="ViciousCupcake's GitHub stats" /></a>
 <a href="http://www.github.com/ViciousCupcake"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=ViciousCupcake&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
-<a href="https://www.github.com/ViciousCupcake" target="_blank" rel="noreferrer"><img
-        src="https://img.shields.io/github/followers/ViciousCupcake?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"></img></a>
