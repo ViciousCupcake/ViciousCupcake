@@ -73,10 +73,10 @@ Glad to meet you! I'm Jonathan, a Computer Science major at UCLA. Last summer, I
 <h3>Let's Connect!</h3>
 <p align="left">
     <a href="https://www.github.com/ViciousCupcake" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+            src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png"
             width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/xujonathan" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
             width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/xujonathan" target="_blank" rel="noreferrer"><img
             src="https://jonathan-xu.com/images/favicon/apple-icon.png"
