@@ -78,7 +78,7 @@ Glad to meet you! I'm Jonathan, a Computer Science major at UCLA. Last summer, I
     <a href="https://www.linkedin.com/in/xujonathan" target="_blank" rel="noreferrer"><img
             src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
             width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/xujonathan" target="_blank" rel="noreferrer"><img
+    <a href="https://jonathan-xu.com" target="_blank" rel="noreferrer"><img
             src="https://jonathan-xu.com/images/favicon/apple-icon.png"
             width="32" height="32" /></a>
 
