@@ -2,9 +2,6 @@
 ![](assets/header.png)
 Glad to meet you! I'm Jonathan, a Computer Science major at UCLA. This past summer, I've been working at [Google](https://about.google), on their Ads team. Specifically, I've been working with other engineers to design a new framework which computes advertisement sizes while significantly improving developer velocity. This framework **serves millions of queries per second**.
 
-I'm currently **seeking an internship** for the summer of 2023, so if I sound like a great match for your team, [let's get in touch](https://jonathan-xu.com/#contact)!
-
-
 - 🔭 I’m currently working on **highly performant backend code** at Google Ads!
 - 🔍 Last year, I worked with **Computer Vision/Machine Learning** and their applications in **LiDAR** at [Cepton](https://cepton.com)
 - 🔬 I'm currently researching using [ANTLR4](https://github.com/antlr/antlr4) Natural Language Processing to parse medication instructions! (Led by [Dr. Zhou](https://www.uclahealth.org/providers/li-zhou) and [Dr. Korf](https://web.cs.ucla.edu/~korf/))
@@ -12,6 +9,8 @@ I'm currently **seeking an internship** for the summer of 2023, so if I sound li
 - 💬 Ask me about **my unique combination of technical and interpersonal communication skills!**
 - ⚽ In my free time, I love to hike as well as learning something new!
 - 📫 Visit me at **[https://jonathan-xu.com](https://jonathan-xu.com)**
+
+I'm currently **seeking an internship** for the summer of 2023, so if I sound like a great match for your team, [let's get in touch](https://jonathan-xu.com/#contact)!
 
 <a href="https://www.github.com/ViciousCupcake" target="_blank" rel="noreferrer"><img
         src="https://img.shields.io/github/followers/ViciousCupcake?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"></img></a>
