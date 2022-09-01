@@ -1,11 +1,16 @@
 ### Hello World! 👋
 ![](assets/header.png)
-Glad to meet you! I'm Jonathan, a Computer Science major at UCLA. Last summer, I've been working at [Cepton](https://cepton.com) with our automotive OEM clients. Specifically, I've been demoing our hardware and software LiDAR solutions and ensuring that we have an open line of communication. This summer, I'm excited to join the team at [Google](https://about.google), working on high performance backend code for our advertisements team!
+Glad to meet you! I'm Jonathan, a Computer Science major at UCLA. This past summer, I've been working at [Google](https://about.google), on their Ads team. Specifically, I've been working with other engineers to design a new framework which computes advertisement sizes, **serving millions of queries per second**.
 
-- 🔭 I’m currently working on **the intersection of Big Data and Advertisements** at Google!
-- 🔍 I'm currently fascinated with **Computer Vision/Machine Learning** and their applications in **LiDAR.**
+I'm currently seeking an internship for the summer of 2023, so if I sound like a great match for your team, let's get in touch!
+
+
+- 🔭 I’m currently working on **highly performant backend code** at Google Ads!
+- 🔍 Last year, I worked with **Computer Vision/Machine Learning** and their applications in **LiDAR** at [Cepton](https://cepton.com)
+- 🔬 I'm currently researching using [ANTLR4](https://github.com/antlr/antlr4) Natural Language Processing to parse medication instructions! (Lead by [Dr. Zhou](https://www.uclahealth.org/providers/li-zhou) and [Dr. Korf](https://web.cs.ucla.edu/~korf/))
 - 🌱 I’m currently studying **Computer Science at UCLA.**
 - 💬 Ask me about **my unique combination of technical and interpersonal communication skills!**
+- ⚽ In my free time, I love to hike as well as learning something new!
 - 📫 Visit me at **[https://jonathan-xu.com](https://jonathan-xu.com)**
 
 <a href="https://www.github.com/ViciousCupcake" target="_blank" rel="noreferrer"><img
