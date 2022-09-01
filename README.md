@@ -83,7 +83,7 @@ I'm currently seeking an internship for the summer of 2023, so if I sound like a
     <a href="https://www.linkedin.com/in/xujonathan" target="_blank" rel="noreferrer"><img
             src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
             width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/xujonathan" target="_blank" rel="noreferrer"><img
+    <a href="https://jonathan-xu.com" target="_blank" rel="noreferrer"><img
             src="https://jonathan-xu.com/images/favicon/apple-icon.png"
             width="32" height="32" /></a>
 
