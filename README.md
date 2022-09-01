@@ -2,7 +2,7 @@
 ![](assets/header.png)
 Glad to meet you! I'm Jonathan, a Computer Science major at UCLA. This past summer, I've been working at [Google](https://about.google), on their Ads team. Specifically, I've been working with other engineers to design a new framework which computes advertisement sizes while significantly improving developer velocity. This framework **serves millions of queries per second**.
 
-I'm currently seeking an internship for the summer of 2023, so if I sound like a great match for your team, let's get in touch!
+I'm currently **seeking an internship** for the summer of 2023, so if I sound like a great match for your team, [let's get in touch](https://jonathan-xu.com/#contact)!
 
 
 - 🔭 I’m currently working on **highly performant backend code** at Google Ads!
