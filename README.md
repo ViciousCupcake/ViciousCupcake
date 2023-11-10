@@ -7,7 +7,7 @@ Glad to meet you! I'm Jonathan, a Computer Science major at UCLA. This past summ
 - 🔬 I'm currently researching using [ANTLR4](https://github.com/antlr/antlr4) Natural Language Processing to parse medication instructions! (Led by [Dr. Zhou](https://www.uclahealth.org/providers/li-zhou) and [Dr. Korf](https://web.cs.ucla.edu/~korf/))
 - 🌱 I’m currently studying **Computer Science at UCLA.**
 - 💬 Ask me about **my unique combination of technical and interpersonal communication skills!**
-- ⚽ In my free time, I love to hike as well as learning something new!
+- ⚽ In my free time, I love to hike as well as learn something new!
 - 📫 Visit me at **[https://jonathan-xu.com](https://jonathan-xu.com)**
 
 I'm currently **seeking a full time position** starting in the summer of 2024, so if I sound like a great match for your team, [let's get in touch](https://jonathan-xu.com/#contact)!
